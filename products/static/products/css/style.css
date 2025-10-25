@@ -1,0 +1,15 @@
+body {
+  padding-top: 56px; /* for fixed navbar */
+}
+
+.carousel img {
+  height: 500px;
+  object-fit: cover;
+}
+
+#products .card {
+  transition: 0.3s;
+}
+#products .card:hover {
+  transform: scale(1.05);
+}

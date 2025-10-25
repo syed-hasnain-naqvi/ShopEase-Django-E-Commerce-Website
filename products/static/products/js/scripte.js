@@ -1,0 +1,1 @@
+console.log("ShopEase Home Page Loaded");
